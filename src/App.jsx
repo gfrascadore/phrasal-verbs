@@ -85,6 +85,7 @@ const ALL_DATA = [
   { category: "UP", term: "End up", definition: "Finire per", example: "The talks could end up in total failure." },
   { category: "UP", term: "Face up to", definition: "Affrontare", example: "We must face up to the climate crisis." },
   { category: "UP", term: "Follow up", definition: "Approfondire", example: "Police are following up new leads." },
+  { category: "UP", term: "Give up", definition: "Arrendersi", example: "Eventually I gave up" },
   { category: "UP", term: "Grow up", definition: "Maturare / Crescere", example: "The tech market has grown up quickly." },
   { category: "UP", term: "Harness up", definition: "Sfruttare", example: "We must harness up wind energy." },
   { category: "UP", term: "Heal up", definition: "Guarire", example: "The rift in the party will take time to heal up." },
